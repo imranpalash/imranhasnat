@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This will be my Intro Section"
+title: "Pixels, Platforms, and Public Diplomacy: My Story"
 author_profile: true
 redirect_from: 
   - /about/
