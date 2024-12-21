@@ -21,7 +21,7 @@ repository               : "imranpalash/imranhasnat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "About"
   pronouns         : # example: "she/her"  
   bio              : "Media, politics and all things digital"
